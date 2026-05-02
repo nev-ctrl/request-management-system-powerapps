@@ -25,7 +25,6 @@ user requests through structured digital forms with automated workflows.
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
