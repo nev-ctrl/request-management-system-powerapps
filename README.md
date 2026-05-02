@@ -27,10 +27,15 @@ user requests through structured digital forms with automated workflows.
 
 ## 📸 Screenshots
 
-> [Screen 1] https://github.com/nev-ctrl/request-management-system-powerapps/blob/main/Screenshot%202026-05-02%20134128.png
-> [Screen 2] https://github.com/nev-ctrl/request-management-system-powerapps/blob/main/Screenshot%202026-05-02%20134113.png
-> [Screen 3] https://github.com/nev-ctrl/request-management-system-powerapps/blob/main/Screenshot%202026-05-02%20140057.png
-> [Email] https://github.com/nev-ctrl/request-management-system-powerapps/blob/main/Screenshot%202026-05-02%20134332.png
+## 📸 Screenshots
+
+![Screen 1](https://raw.githubusercontent.com/nev-ctrl/request-management-system-powerapps/main/Screenshot%202026-05-02%20134113.png)
+
+![Screen 2](https://raw.githubusercontent.com/nev-ctrl/request-management-system-powerapps/main/Screenshot%202026-05-02%20134128.png)
+
+![Screen 3](https://raw.githubusercontent.com/nev-ctrl/request-management-system-powerapps/main/Screenshot%202026-05-02%20140057.png)
+
+![Email](https://raw.githubusercontent.com/nev-ctrl/request-management-system-powerapps/main/Screenshot%202026-05-02%20134332.png)
 
 ---
 
